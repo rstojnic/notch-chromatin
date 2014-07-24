@@ -45,7 +45,7 @@ H3K9me3 | modEncode_312 | modEncode_3013 | modEncode_313
 H4K16ac | modEncode_316 | modEncode_318 | modEncode_319
 H4K20me1 | modEncode_3286 | modEncode_3287 | modEncode_3014
 
-Data can be downloaded from [http://intermine.modencode.org](http://intermine.modencode.org). We used the final processed ChIP profiles. 
+Data can be downloaded from [http://intermine.modencode.org](http://intermine.modencode.org). We used the final processed ChIP profiles. Their averages over the 200bp tiles make up the data matrices given above.  
 
 DNAseI hypersensitivity (DHS) data was downloaded from [http://compbio.med.harvard.edu/flychromatin/data.html](http://compbio.med.harvard.edu/flychromatin/data.html).
 
