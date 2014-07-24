@@ -11,7 +11,9 @@ To save space the data in stored in [7zip](http://www.7-zip.org/) format. You wi
 
 * [scikit-BG3S2Kc.tsv.7z](https://github.com/rstojnic/notch-chromatin/blob/master/data/scikit-BG3S2Kc.tsv.7z) -  dataset from 3 cell lines (in order: BG3-S2-Kc) and without H3K56ac. 
 
-* [tiles.bed.gz](https://github.com/rstojnic/notch-chromatin/blob/master/data/tiles.bed.gz) -  Genomic coordinates of 200bp tiles used to create the dataset. 
+* [tiles.bed.gz](https://github.com/rstojnic/notch-chromatin/blob/master/data/tiles.bed.gz) - genomic coordinates of 200bp tiles used to create the dataset. 
+
+* [substates/](https://github.com/rstojnic/notch-chromatin/tree/master/data/substates/) - directory containing the data separate by state. An additional column is added with the region index. The adjacent tiles can be grouped together using this index. 
 
 ## modENCODE datasets
 

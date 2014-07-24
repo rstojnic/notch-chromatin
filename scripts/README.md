@@ -17,7 +17,7 @@ after unpacking the .7z files from the data/ directory. Note that this script us
 $ python scripts/scikitFit-inferSubStates.py 4
 ```
 
-to further split State 4. For this to work you will have to unpack the files in data/substates. The script will split the state into 2-5 substates using 10 initial points. 
+to further split State 4. For this to work you will have to unpack the files in data/substates. The script will split the state into 2-5 substates using 10 initial points. Since regions annotated with a state might be at great distances, the regions are not joined together but kept as separate sequences. 
 
 ## Scikit version
 
