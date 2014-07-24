@@ -5,13 +5,13 @@ To save space the data in stored in [7zip](http://www.7-zip.org/) format. You wi
 
 ## Data matrices
 
-* [scikit-BG3Kc-K56ac.tsv.7z](https://github.com/rstojnic/notch-chromatin/data/scikit-BG3Kc-K56ac.tsv.7z) -  main dataset used for chromatin state inference. BG3 and Kc data are appended into a single large matrix. See below for the corresponding tiles coordinate file. 
+* [scikit-BG3Kc-K56ac.tsv.7z](https://github.com/rstojnic/notch-chromatin/blob/master/data/scikit-BG3Kc-K56ac.tsv.7z) -  main dataset used for chromatin state inference. BG3 and Kc data are appended into a single large matrix. See below for the corresponding tiles coordinate file. 
 
-* [scikit-BG3Kc-K56ac-postActivation.tsv.7z](https://github.com/rstojnic/notch-chromatin/data/scikit-BG3Kc-K56ac-postActivation.tsv.7z) -  dataset with H3K56ac after Notch activation. Note that all other datasets (except H3K56ac) are before Notch activation. 
+* [scikit-BG3Kc-K56ac-postActivation.tsv.7z](https://github.com/rstojnic/notch-chromatin/blob/master/data/scikit-BG3Kc-K56ac-postActivation.tsv.7z) -  dataset with H3K56ac after Notch activation. Note that all other datasets (except H3K56ac) are before Notch activation. 
 
-* [scikit-BG3S2Kc.tsv.7z](https://github.com/rstojnic/notch-chromatin/data/scikit-BG3S2Kc.tsv.7z) -  dataset from 3 cell lines (in order: BG3-S2-Kc) and without H3K56ac. 
+* [scikit-BG3S2Kc.tsv.7z](https://github.com/rstojnic/notch-chromatin/blob/master/data/scikit-BG3S2Kc.tsv.7z) -  dataset from 3 cell lines (in order: BG3-S2-Kc) and without H3K56ac. 
 
-* [tiles.bed.gz](https://github.com/rstojnic/notch-chromatin/data/tiles.bed.gz) -  Genomic coordinates of 200bp tiles used to create the dataset. 
+* [tiles.bed.gz](https://github.com/rstojnic/notch-chromatin/blob/master/data/tiles.bed.gz) -  Genomic coordinates of 200bp tiles used to create the dataset. 
 
 ## modENCODE datasets
 
