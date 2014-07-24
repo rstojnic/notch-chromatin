@@ -5,9 +5,9 @@ This repository contains the supplementary methods for the (Skalska et al, 2014)
 
 Directory structure:
 
-* [data/](https://github.com/rstojnic/notch-chromatin/data/) - Raw data used to infer chromatin states. 
-* [states/](https://github.com/rstojnic/notch-chromatin/states/) - Chromatin states as BED files. 
-* [scripts/](https://github.com/rstojnic/notch-chromatin/scripts/) - Scripts used to derive the chromatin states.
+* [data/](https://github.com/rstojnic/notch-chromatin/tree/master/data) - Raw data used to infer chromatin states. 
+* [states/](https://github.com/rstojnic/notch-chromatin/tree/master/states/) - Chromatin states as BED files. 
+* [scripts/](https://github.com/rstojnic/notch-chromatin/tree/master/scripts/) - Scripts used to derive the chromatin states.
 
 
 
