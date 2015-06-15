@@ -5,9 +5,9 @@ This repository contains the supplementary data for the (Skalska et al, 2015) pa
 
 Directory structure:
 
-* [data/](https://github.com/rstojnic/notch-chromatin/tree/master/data) - Raw data used to infer chromatin states. 
-* [states/](https://github.com/rstojnic/notch-chromatin/tree/master/states/) - Chromatin states as BED files. 
-* [scripts/](https://github.com/rstojnic/notch-chromatin/tree/master/scripts/) - Scripts used to derive the chromatin states.
+* [chromatin_states/](https://github.com/rstojnic/notch-chromatin/tree/master/chromatin_states/) - Chromatin states as BED files. 
+* [raw_data/](https://github.com/rstojnic/notch-chromatin/tree/master/raw_data) - Raw data used to infer chromatin states. 
+* [code/](https://github.com/rstojnic/notch-chromatin/tree/master/code/) - Scripts used to derive the chromatin states.
 
 
 
